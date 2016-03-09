@@ -1,4 +1,5 @@
-[](http://www.quickmeme.com/img/e9/e9b82533f50538f4d36656f24bf2afb39642223033cd19d52ef1eea5b03ab1bf.jpg)
+![Yoda](http://www.quickmeme.com/img/e9/e9b82533f50538f4d36656f24bf2afb39642223033cd19d52ef1eea5b03ab1bf.jpg)
+
 # learn-together
 _a repository full of things we have learned while working on projects and useful tips_
 
