@@ -4,7 +4,7 @@
 _a repository full of things we have learned while working on projects and useful tips_
 
 ## Language Specific
-- ruby
+- [ruby](language/ruby/README.md)
 - javascript
 - html
 - css
