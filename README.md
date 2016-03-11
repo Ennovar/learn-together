@@ -4,7 +4,7 @@
 _a repository full of things we have learned while working on projects and useful tips_
 
 ## Language Specific
-- [ruby](language/ruby/README.md)
+- [ruby](https://github.com/Ennovar/learn-together/tree/master/languages/ruby)
 - javascript
 - html
 - css

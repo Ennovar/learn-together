@@ -1,0 +1,13 @@
+@import 'variables';
+html,
+body{
+/*Comment*/
+color: $text-color;
+}
+// Not sure if this actually works... add a issue if it doesnt.
+@include headings(){
+    font-family:$header-font;
+}
+p{
+  font-family: $body-font;
+}
