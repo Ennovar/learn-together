@@ -1,7 +1,8 @@
 // Libary imports
 import React from 'react';
 import { render } from 'react-dom';
+import App from './containers/App';
 
 render(
-  <div>Hello, World!</div>
+  <App />
 , document.getElementById('main'));
